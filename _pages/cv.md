@@ -11,54 +11,80 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* **B.Tech in Computer Science and Engineering**
+  * Shiv Nadar Institution of Eminence, Greater Noida
+  * Expected Graduation: 2026
+  * Specialization: Machine Learning, Computer Vision, and Open-Set Recognition
 
-Work experience
+Work Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* **Research Assistant** (if applicable - update or remove this section)
+  * Institution Name
+  * Duration: Month Year - Month Year
+  * Duties included: Brief description of your research work
+  * Supervisor: Professor Name
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+<!-- Add your actual work experience/internships here. Example:
+* **Machine Learning Intern**
+  * Company Name
+  * Duration: Month Year - Month Year
+  * Worked on: Project description
+  * Technologies: List of technologies used
+-->
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **Programming Languages**
+  * Python
+  * C/C++
+  * Java
+  * MATLAB (if applicable)
+  
+* **Machine Learning & Deep Learning**
+  * PyTorch / TensorFlow
+  * Computer Vision (OpenCV, etc.)
+  * Neural Network Architectures
+  * Open-Set Recognition
+  
+* **Tools & Technologies**
+  * Git/GitHub
+  * Docker
+  * Jupyter Notebooks
+  * Linux/Unix
+
+Research Interests
+======
+* Machine Learning and Deep Learning
+* Computer Vision
+* Open-Set Recognition
+* Robust AI Systems
 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
+
+Projects
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
+  <ul>{% for post in site.portfolio reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
+
+Relevant Coursework
 ======
-* Currently signed in to 43 different slack teams
+See detailed coursework at [/coursework/](/coursework/)
+
+Honors & Awards
+======
+* Add any academic awards, scholarships, or honors here
+* Example: Dean's List, Month Year
+* Example: Best Project Award, Course Name, Year
+
+<!-- 
+Service and Leadership
+======
+* Add any leadership positions, volunteer work, or service activities
+* Example: President of Computer Science Club
+* Example: Mentor for undergraduate students
+-->

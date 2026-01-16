@@ -1,19 +1,53 @@
-# Academic Pages
+# Arnav Aditya - Personal Research & Portfolio Website
+
+This repository contains my personal research and portfolio website, built with Jekyll and the AcademicPages template. The site showcases my academic publications, technical projects, coursework, and professional profile.
+
+## About
+
+I'm a final-year B.Tech Computer Science and Engineering student at Shiv Nadar Institution of Eminence, specializing in Machine Learning, Computer Vision, and Open-Set Recognition. This website serves as a comprehensive portfolio of my research contributions, technical projects, and academic achievements.
+
+## Local Development
+
+To run this website locally on your machine, follow these steps:
+
+1. **Clone the repository** (if you haven't already):
+   ```bash
+   git clone https://github.com/arnavadi19/arnavadi19.github.io.git
+   cd arnavadi19.github.io
+   ```
+
+2. **Install dependencies**:
+   ```bash
+   bundle install
+   ```
+
+3. **Serve the site locally**:
+   ```bash
+   bundle exec jekyll serve
+   ```
+
+4. **View the site** at `http://localhost:4000`
+
+## Site Structure
+
+- **Publications**: Research papers and conference proceedings
+- **Portfolio**: Technical projects and implementations
+- **Coursework**: Relevant academic courses
+- **CV**: Curriculum vitae and professional experience
+
+## Technologies
+
+- **Jekyll**: Static site generator
+- **AcademicPages Template**: Responsive academic portfolio theme
+- **GitHub Pages**: Hosting platform
+
+---
+
+# Original Academic Pages Template Information
+
 **Academic Pages is a GitHub Pages template for personal and professional portfolio-oriented websites.**
 
 ![Academic Pages template example](images/themes/homepage-light.png "Academic Pages template example")
-
-# Getting Started
-
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Click the "Use this template" button in the top right.
-1. On the "New repository" page, enter your public repository name as "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and add your content.
-1. Upload any files (like PDFs, .zip files, etc.) to the `files/` directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.
-1. Check status by going to the repository settings, in the "GitHub pages" section
-1. (Optional) Use the Jupyter notebooks or python scripts in the `markdown_generator` folder to generate markdown files for publications and talks from a TSV file.
-
-See more info at https://academicpages.github.io/
 
 ## Running locally
 
