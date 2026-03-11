@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Arnav Aditya | Research & Engineering Portfolio"
+title                    : "Arnav Aditya"
 title_separator          : "-"
 name                     : &name "Arnav Aditya"
 description              : &description "Final-year B.Tech Computer Science and Engineering student at Shiv Nadar Institution of Eminence specializing in Machine Learning, Computer Vision, and Open-Set Recognition."   # Update this with a general description of your site, this is the default if not overridden by a page

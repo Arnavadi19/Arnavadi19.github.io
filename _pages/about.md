@@ -15,7 +15,7 @@ I am a final-year B.Tech Computer Science and Engineering student at **Shiv Nada
 
 - **Deep Learning** 
 - **Computer Vision**
-- **Open-Set Recognition**
+- **Open-Set and Open-Vocabulary Recognition**
 - **Robust AI Systems**
 - **Medical Image Analysis**
 - **AI Safety and Interpretability**
