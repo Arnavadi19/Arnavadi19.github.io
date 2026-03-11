@@ -21,19 +21,22 @@ This page highlights key courses that have shaped my technical foundation in Com
 - **Discrete Mathematics**  
   Graph theory, combinatorics, mathematical logic, and algorithmic foundations
 
+- **Linear Algebra**  
+  Vector spaces, matrix operations, eigenvalues and eigenvectors, and applications to machine learning
+
 ---
 
 ## Artificial Intelligence & Machine Learning
 
 ### Core ML Courses
 - **Deep Learning**  
-  Neural network architectures, backpropagation, CNNs, RNNs, transformers, and modern deep learning frameworks
+  Neural network architectures, backpropagation, CNNs, RNNs, transformers, generative models, and modern deep learning frameworks
 
 - **Computer Vision**  
-  Image processing, feature extraction, object detection, semantic segmentation, and vision transformers
+  Image processing, feature extraction, object detection, semantic segmentation, and classical CV algorithms
 
 - **Machine Learning**  
-  Supervised and unsupervised learning, model evaluation, ensemble methods, and classical ML algorithms
+  Supervised learning, unsupervised learning and classical ML algorithms
 
 - **Digital Image Processing**  
   Image enhancement, filtering, morphological operations, and computer vision preprocessing techniques
@@ -54,12 +57,3 @@ This page highlights key courses that have shaped my technical foundation in Com
 
 ---
 
-## Applied Projects
-
-Throughout these courses, I've worked on practical projects including:
-- Implementing neural networks from scratch
-- Building computer vision applications for medical imaging
-- Deploying ML models to cloud infrastructure
-- Developing data structures for efficient algorithm implementation
-
-These courses have provided the theoretical foundation and practical skills necessary for my research in Open-Set Recognition, Computer Vision, and Machine Learning applications.

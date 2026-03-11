@@ -17,10 +17,12 @@ I am a final-year B.Tech Computer Science and Engineering student at **Shiv Nada
 - **Computer Vision**
 - **Open-Set Recognition**
 - **Robust AI Systems**
+- **Medical Image Analysis**
+- **AI Safety and Interpretability**
 
 ## Current Work
 
-I am actively involved in research projects exploring cutting-edge techniques in machine learning and computer vision. Check out my [Publications](/publications/) to see my latest work, or browse my [Portfolio](/portfolio/) to view my technical projects.
+I am actively involved in research projects exploring cutting-edge techniques in continual learning and class incremental learning.
 
 ## Academic Background
 
