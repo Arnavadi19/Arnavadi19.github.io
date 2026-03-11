@@ -30,4 +30,4 @@ I am pursuing my undergraduate degree in Computer Science and Engineering at Shi
 
 ---
 
-Feel free to connect with me via email at [aa716@snu.edu.in](mailto:aa716@snu.edu.in).
+Feel free to connect with me via email [here](mailto:aa716@snu.edu.in).
