@@ -19,9 +19,12 @@ main:
   - title: "Coursework"
     url: /coursework/
         
-  - title: "Blog Posts"
-    url: /year-archive/
-    
+  # - title: "Blog Posts"
+  #   url: /year-archive/
+
+  - title: "Work Experience"
+    url: /experience/
+
   - title: "CV"
     url: https://drive.google.com/file/d/1NmTGNchDqIWJfVspP-rnAyC9dYsgxRJ9/view?usp=sharing
     
