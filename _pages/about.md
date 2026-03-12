@@ -9,7 +9,7 @@ redirect_from:
 
 # About Me
 
-I am a final-year B.Tech Computer Science and Engineering student at **Shiv Nadar Institution of Eminence**, specializing in **Artificial Intelligence** and  **Machine Learning**.
+I am **Arnav Aditya**, a final-year B.Tech Computer Science and Engineering student at **Shiv Nadar Institution of Eminence**, specializing in **Artificial Intelligence** and  **Machine Learning**.
 
 ## Research Interests
 

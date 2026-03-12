@@ -13,6 +13,7 @@ title                    : "Arnav Aditya"
 title_separator          : "-"
 name                     : &name "Arnav Aditya"
 description              : &description "Final-year B.Tech Computer Science and Engineering student at Shiv Nadar Institution of Eminence specializing in Machine Learning, Computer Vision, and Open-Set Recognition."   # Update this with a general description of your site, this is the default if not overridden by a page
+keywords                 : ["Arnav Aditya", "Arnav Aditya Shiv Nadar", "Arnav Aditya SNU", "Machine Learning", "Computer Vision"]
 url                      : https://arnavadi19.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
