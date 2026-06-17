@@ -12,10 +12,11 @@ author_profile: true
 ### Research Assistant — *IIT Delhi*
 **May 2026 onwards** · New Delhi, India
 
-- Working as a Research Assistant in the Computer Science and Engineering department.
+- Project title: Real Time Semantic Segmentation
+- Working under the guidance of Prof. Chetan Arora
 
-### Research Intern — *Indian Institute of Science, Bangalore*
-**Jan 2026 onwards** · Bangalore, India
+### 8th semester project — *Indian Institute of Science, Bangalore*
+**Jan 2026 - April 2026**
 
 - Continual learning
 - Class incremental learning

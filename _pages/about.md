@@ -12,15 +12,16 @@ I am a Computer Science and Engineering graduate from **Shiv Nadar University**,
 ## Research Interests
 
 - **Deep Learning** 
+- **Machine Learning**
 - **Computer Vision**
 - **Open-Set and Open-Vocabulary Recognition**
 - **Robust AI Systems**
 - **Medical Image Analysis**
-- **AI Safety and Interpretability**
+- **Dense Prediction & Semantic Segmentation**
 
 ## Current Work
 
-I am actively involved in research projects exploring cutting-edge techniques in continual learning and class incremental learning.
+I am actively involved in research projects exploring RTSS (Real-Time Semantic Segmentation) on edge devices
 
 ## Academic Background
 
