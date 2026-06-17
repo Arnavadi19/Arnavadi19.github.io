@@ -9,6 +9,11 @@ author_profile: true
 
 ## Research & Internships
 
+### Research Assistant — *IIT Delhi*
+**May 2026 onwards** · New Delhi, India
+
+- Working as a Research Assistant in the Computer Science and Engineering department.
+
 ### Research Intern — *Indian Institute of Science, Bangalore*
 **Jan 2026 onwards** · Bangalore, India
 

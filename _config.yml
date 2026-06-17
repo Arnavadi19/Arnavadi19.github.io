@@ -12,8 +12,8 @@ site_theme               : "default" # The available themes options are "default
 title                    : "Arnav Aditya"
 title_separator          : "-"
 name                     : &name "Arnav Aditya"
-description              : &description "Final-year B.Tech Computer Science and Engineering student at Shiv Nadar Institution of Eminence specializing in Machine Learning, Computer Vision, and Open-Set Recognition."   # Update this with a general description of your site, this is the default if not overridden by a page
-keywords                 : ["Arnav Aditya", "Arnav Aditya Shiv Nadar", "Arnav Aditya SNU", "Machine Learning", "Computer Vision"]
+description              : &description "Computer Science and Engineering Graduate from Shiv Nadar University specializing in Artificial Intelligence. Currently a Research Assistant at IIT Delhi."   # Update this with a general description of your site, this is the default if not overridden by a page
+keywords                 : ["Arnav Aditya", "Arnav Aditya Shiv Nadar", "Arnav Aditya SNU", "IIT Delhi", "Machine Learning", "Artificial Intelligence"]
 url                      : https://arnavadi19.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -27,9 +27,9 @@ author:
   avatar           : "profile.png"
   name             : "Arnav Aditya"
   pronouns         : "he/him"
-  bio              : "CSE Undergraduate at Shiv Nadar Institution of Eminence."
-  location         : "Greater Noida, Uttar Pradesh"
-  employer         : "Shiv Nadar Institution of Eminence"
+  bio              : "Research Assistant at IIT Delhi | CSE Graduate from Shiv Nadar University."
+  location         : "New Delhi, India"
+  employer         : "IIT Delhi"
   uri              : # URL
   email            : "aa716@snu.edu.in" 
 

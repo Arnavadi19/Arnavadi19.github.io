@@ -4,7 +4,7 @@ This repository contains my personal research and portfolio website, built with 
 
 ## About
 
-I'm a final-year B.Tech Computer Science and Engineering student at Shiv Nadar Institution of Eminence, specializing in Machine Learning, Computer Vision, and Open-Set Recognition. This website serves as a comprehensive portfolio of my research contributions, technical projects, and academic achievements.
+I am a Computer Science and Engineering graduate from Shiv Nadar University, with a specialization in Artificial Intelligence. Since May 2026, I have been working as a Research Assistant at IIT Delhi. This website serves as a comprehensive portfolio of my research contributions, technical projects, and academic achievements.
 
 ## Local Development
 

@@ -1,15 +1,13 @@
 ---
 permalink: /
-title: "Arnav Aditya"
+title: "About"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-# About Me
-
-I am **Arnav Aditya**, a final-year B.Tech Computer Science and Engineering student at **Shiv Nadar Institution of Eminence**, specializing in **Artificial Intelligence** and  **Machine Learning**.
+I am a Computer Science and Engineering graduate from **Shiv Nadar University**, with a specialization in **Artificial Intelligence**. Since May 2026, I am working as a **Research Assistant** at **IIT Delhi**.
 
 ## Research Interests
 
@@ -26,7 +24,7 @@ I am actively involved in research projects exploring cutting-edge techniques in
 
 ## Academic Background
 
-I am pursuing my undergraduate degree in Computer Science and Engineering at Shiv Nadar Institution of Eminence, where I have taken comprehensive [coursework](/coursework/) in machine learning, artificial intelligence, computer vision, and software engineering.
+I completed my undergraduate degree in Computer Science and Engineering at Shiv Nadar University, where I took comprehensive [coursework](/coursework/) in machine learning, artificial intelligence, computer vision, and software engineering.
 
 ---
 

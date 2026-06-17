@@ -12,17 +12,16 @@ redirect_from:
 Education
 ======
 * **B.Tech in Computer Science and Engineering**
-  * Shiv Nadar Institution of Eminence, Greater Noida
-  * Expected Graduation: 2026
-  * Specialization: Machine Learning, Computer Vision, and Open-Set Recognition
+  * Shiv Nadar University, Greater Noida
+  * Graduated: 2026
+  * Specialization: Artificial Intelligence
 
 Work Experience
 ======
-* **Research Assistant** (if applicable - update or remove this section)
-  * Institution Name
-  * Duration: Month Year - Month Year
-  * Duties included: Brief description of your research work
-  * Supervisor: Professor Name
+* **Research Assistant**
+  * IIT Delhi
+  * Duration: May 2026 - Present
+  * Duties included: Research Assistant in the Computer Science and Engineering department.
 
 <!-- Add your actual work experience/internships here. Example:
 * **Machine Learning Intern**
