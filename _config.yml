@@ -17,7 +17,7 @@ keywords                 : ["Arnav Aditya", "Arnav Aditya Shiv Nadar", "Arnav Ad
 url                      : https://arnavadi19.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "arnavadi19/arnavadi19.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -130,7 +130,7 @@ atom_feed:
 
 
 # SEO Related
-google_site_verification :
+google_site_verification : "rNaByS0jExqKjiaJcXrDMEnTIuPCbIw40hcQjVPjh1k"
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
@@ -155,9 +155,9 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "false" # false (default), "google", "google-universal", "google-analytics-4", "custom"
+  provider               : "google-analytics-4" # false (default), "google", "google-universal", "google-analytics-4", "custom"
   google:
-    tracking_id          :
+    tracking_id          : "G-G82HDQTEQ5"
 
 
 # Reading Files
